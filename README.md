@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # dotfiles
 
 My personal dotfiles and editor configurations.
